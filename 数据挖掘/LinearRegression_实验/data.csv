@@ -1,0 +1,6 @@
+﻿Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,DiseaseProgression,
+0,95,80,20,50,25,0.1,30,0.1,
+1,120,90,30,60,28,0.2,35,0.5,
+2,140,85,25,70,26,0.15,40,0.3,
+0,105,70,15,45,23,0.05,25,0.2,
+1,115,80,20,55,27,0.1,32,0.4,
